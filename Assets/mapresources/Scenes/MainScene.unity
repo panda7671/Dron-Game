@@ -937,7 +937,7 @@ PrefabInstance:
     - target: {fileID: 7551841499680276264, guid: 7ac2e79f3f75c004cae8ea1edccdc68e, type: 3}
       propertyPath: m_audioClip
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 8300000, guid: 042986551edab6a4aa056d3695b2bd13, type: 3}
     - target: {fileID: 7551841499680276265, guid: 7ac2e79f3f75c004cae8ea1edccdc68e, type: 3}
       propertyPath: m_Name
       value: BGM_Player1
